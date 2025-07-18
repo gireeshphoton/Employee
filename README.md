@@ -3,11 +3,14 @@
 # Setup Instructions
 1. Clone the Repository
 
-git clone https://github.com/gireeshphoton/employee-management.git
+git clone https://github.com/gireeshphoton/Employee.git
 
 cd employee-management
 
 # Install Dependencies
+
+git checkout master
+
 npm install
 
 # Run the Application
